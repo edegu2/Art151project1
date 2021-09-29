@@ -12,6 +12,8 @@ function setup() {
   colorMode(HSB);
   background(0,0,0)
   ob = [];
+
+  alert("Welcome to my game!, Click on the screen to start a trail!, Click Spacebar to change the saturation, Click '-' and '+' to change the hue, Click 'r' to reset the trail to default. ")
 }
 
 
